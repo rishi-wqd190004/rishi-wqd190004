@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishi Nigam</h1>
 <h3 align="center">An enthusiastic data scientist</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishi-wqd190004" alt="rishi-wqd190004" /></a> </p>
-
 - 🔭 I’m currently working on [catching people yawning](https://github.com/rishi-wqd190004/caught_you_yawning)
 
 - 🌱 I’m currently learning **Deep Learning frameworks and architectures like LLM, etc**
