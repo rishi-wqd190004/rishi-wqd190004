@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishi Nigam</h1>
 <h3 align="center">An enthusiastic data scientist</h3>
 
-- 🔭 I’m currently working on [catching people yawning](https://github.com/rishi-wqd190004/caught_you_yawning)
+- 🔭 I’m currently working on Making a fine-tuned cool LLM.
 
 - 🌱 I’m currently learning **Deep Learning frameworks and architectures like LLM, etc**
 
