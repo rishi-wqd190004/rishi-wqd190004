@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PySpark**
 
-- 👨‍💻 All of my projects are available at [https://rishi-wqd190004.github.io/rishithedatascientist.github.io/](https://rishi-wqd190004.github.io/rishithedatascientist.github.io/)
+- 👨‍💻 All of my projects are available at [https://rishi-wqd190004.github.io/rishithedatascientist.github.io/](https://rishi-wqd190004.github.io/rishithedatascientist.github.io/) (New website coming soon!)
 
 - 💬 Ask me about **Data science**
 
