@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishi Nigam</h1>
 <h3 align="center">An enthusiastic data scientist</h3>
 
-- 🔭 I’m currently working on *reviving old characters with AI*.
+- 🔭 I’m currently working on *Tracking badminton shots*.
 
-- 🌱 I’m currently learning **Deep Learning frameworks and architectures like LLM, etc**
+- 🌱 I’m currently learning **PySpark**
 
 - 👨‍💻 All of my projects are available at [https://rishi-wqd190004.github.io/rishithedatascientist.github.io/](https://rishi-wqd190004.github.io/rishithedatascientist.github.io/)
 
